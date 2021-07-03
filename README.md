@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcategory%2FFast-Food-Restaurant%2FChicken-Burger-103446404500247%2F&psig=AOvVaw2hbdcKKbAc8S5nPo7EzyWi&ust=1625413323158000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCY6s-ex_ECFQAAAAAdAAAAABAD" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
