@@ -1,0 +1,24 @@
+se abre con 
+cd..
+cd..
+cd delivery
+php artisan serve
+
+
+Probar culqui
+Numero de tarjeta : 4111 1111 1111 1111
+mes/año 09/25 cvv 123
+correo: diegoarca02@gmail.com
+
+
+pruba usuario
+
+f4.32@hotmail.com
+
+prueba admin
+jonathanf4.32@gmail.com
+contraseña
+ miidoloescr7
+miidoloesneymar10
+Miidoloescr7
+Miidoloesneymar10
