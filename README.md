@@ -8,7 +8,7 @@
 </p>
 
 ## Arquitectura Orientada a Servicios
-============================ChickenBurger================================
+==============================ChickenBurger================================
 - Docente : Jorge Luis Chumpitaz Vélez
 - Integrantes: 
 - Lorena Carhuamaca Canchanya
@@ -64,7 +64,6 @@ Entender el funcionamiento de su arquitectura de sus procesos de negocio y su mo
 - **Realizar promocion**
 - **Consultar stock**
 - **Actualizar inventario**
-## Como abrir la app
 
 ## License
 
