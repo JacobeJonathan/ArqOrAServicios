@@ -55,22 +55,17 @@ Entender el funcionamiento de su arquitectura de sus procesos de negocio y su mo
 
 ## Servicios
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
+- **Realizar compra**
+- **Anular compra)**
+- **Carrito de compras**
+- **Google Maps**
+- **Realizar venta**
+- **Modificar venta**
+- **Realizar promocion**
+- **Consultar stock**
+- **Actualizar inventario**
+## Como abrir la app
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Todos los derechos a Jonathan Jacobe Montes @copyright - 2021.
