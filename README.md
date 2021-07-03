@@ -17,7 +17,10 @@
 - Julio Sánchez Cunyas
 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Como equipo de trabajo planteamos realizar un sistema web de comida rápida de manera online en una plataforma simple, práctica y sin costo adicional que permite al usuario elegir su comida rápida favorita entre la variedad de opciones disponibles mostradas en la página web,el cliente podrá realizar el pedido y pago de forma más cómoda.
+La página web para el negocios de delivery y comida rápida, contará con dos interfaces una para el cliente y otra para el admin y con un método de pago online.
+El sistema consistirá en registrar tu productos en stock, tener una lista de las hamburguesas más solicitadas, generar cuadro estadístico de todas las ventas y además en el historial de pedido se pondrá las opciones de pedido: En espera-Enviado-Entregado.
+Va a estar programado en MySql, PHP y Culqui - Laravel 7:
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
