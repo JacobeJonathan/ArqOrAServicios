@@ -22,25 +22,38 @@ La página web para el negocios de delivery y comida rápida, contará con dos i
 El sistema consistirá en registrar tu productos en stock, tener una lista de las hamburguesas más solicitadas, generar cuadro estadístico de todas las ventas y además en el historial de pedido se pondrá las opciones de pedido: En espera-Enviado-Entregado.
 Va a estar programado en MySql, PHP y Culqui - Laravel 7:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- Interfaz de cliente full responsive design.
+- Interfaz del admin.
+-Pasarela de pago Culqi.
+- Carrito de compras.
+- Módulo de menús.
+- Módulo para pedidos online.
+- Contacto en modo cliente.
+- Configuración de la navegación.
+- Configuración del home page.
+- Módulo de ventas
+- Dashboard y gráfico de estadísticas
+- Gestión de usuarios.
+- Preguntas frecuentes (FAQ).
+- Google Maps
+- Like Box de Fanpage de Facebook
+- Base de datos mysql
+- Login para iniciar y comprar productos
+- Registrar número celular del cliente para la entrega de pedido
+- Categorías de productos
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+Según las estadísticas desde la llegada del coronavirus al Perú, el incremento de ventas por delivery está en aumento constante.Además, El delivery es uno de los servicios que ha presentado mayor auge durante la cuarentena por la pandemia del COVID-19. Sin embargo, años previos a la crisis sanitaria, este canal ya presentaba un gran nivel de desarrollo, con tasas de crecimiento alrededor del 30% anual.
 
-## Learning Laravel
+## Objetivos
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Implementar un sistema de delivery en “CHICKEN BURGER” que ayude  a una gestión eficiente de sus servicios.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## Objetivos especificos
 
-## Laravel Sponsors
+Efectuar la mejora en la gestión de procesos de ventas 
+Entender el funcionamiento de su arquitectura de sus procesos de negocio y su modelo de servicios del establecimiento como el funcionamiento del sistema de delivery.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Servicios
 
 - **[Vehikl](https://vehikl.com/)**
 - **[Tighten Co.](https://tighten.co)**
@@ -57,33 +70,6 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - [User10](https://user10.com)
 - [Soumettre.fr](https://soumettre.fr/)
 - [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
-- [Appoly](https://www.appoly.co.uk)
-- [OP.GG](https://op.gg)
-- [云软科技](http://www.yunruan.ltd/)
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
