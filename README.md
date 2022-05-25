@@ -9,6 +9,8 @@
 
 ## Arquitectura Orientada a Servicios
 ==================================ChickenBurger================================
+<p align="center"><img src="https://i.ibb.co/WpdRch5/Sin-t-tulo.png" width="500" height="300"></p>
+
 - Docente : Jorge Luis Chumpitaz Vélez
 - Integrantes: 
 - Lorena Carhuamaca Canchanya
